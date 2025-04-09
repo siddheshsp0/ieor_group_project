@@ -1,0 +1,64 @@
+Match No.,Team 1,Team 2,Winner
+1,Qatar,Ecuador,Ecuador
+2,England,IR Iran,England
+3,Senegal,Netherlands,Netherlands
+4,United States,Wales,
+5,Argentina,Saudi Arabia,Saudi Arabia
+6,Denmark ,Tunisia,
+7,Mexico,Poland,
+8,France,Australia,France
+9,Morocco,Croatia,
+10,Germany,Japan,Japan
+11,Spain,Costa Rica,Spain
+12,Belgium,Canada,Belgium
+13,Switzerland,Cameroon,Switzerland
+14,Uruguay,Korea Republic,
+15,Portugal,Ghana,Portugal
+16,Brazil,Serbia,Brazil
+17,Wales,IR Iran,IR Iran
+18,Qatar,Senegal,Senegal
+19,Netherlands,Ecuador,
+20,England,United States,
+21,Tunisia,Australia,Australia
+22,Poland,Saudi Arabia,Poland
+23,France,Denmark,France
+24,Argentina,Mexico,Argentina
+25,Japan,Costa Rica,Costa Rica
+26,Belgium,Morocco,Morocco
+27,Croatia,Canada,Croatia
+28,Spain,Germany,
+29,Cameroon,Serbia,
+30,Korea Republic,Ghana,Ghana
+31,Brazil,Switzerland,Brazil
+32,Portugal,Uruguay,Portugal
+33,Ecuador,Senegal,Senegal
+34,Netherlands,Qatar,Netherlands
+35,IR Iran,United States,United States
+36,Wales,England,England
+37,Tunisia,France,Tunisia
+38,Australia,Denmark,Australia
+39,Poland,Argentina,Argentina
+40,Saudi Arabia,Mexico,Mexico
+41,Croatia,Belgium,
+42,Canada,Morocco,Morocco
+43,Japan,Spain,Japan
+44,Costa Rica,Germany,Germany
+45,Korea Republic,Portugal,Korea Republic
+46,Ghana,Uruguay,Uruguay
+47,Serbia,Switzerland,Switzerland
+48,Cameroon,Brazil,Cameroon
+49,Netherlands,United States,Netherlands
+50,Argentina,Australia,Argentina
+51,France,Poland,France
+52,England,Senegal,England
+53,Japan,Croatia,Croatia
+54,Brazil,Korea Republic,Brazil
+55,Morocco,Spain,Morocco
+56,Portugal,Switzerland,Portugal
+57,Croatia,Brazil,Croatia
+58,Netherlands,Argentina,Argentina
+59,Morocco,Portugal,Morocco
+60,England,France,France
+61,Argentina,Croatia,Argentina
+62,France,Morocco,France
+63,Croatia,Morocco,Croatia
