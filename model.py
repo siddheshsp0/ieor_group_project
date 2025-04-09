@@ -8,7 +8,7 @@ from sklearn.preprocessing import StandardScaler
 
 # Loading the data from CSV files
 players_df = pd.read_csv('./players_list.csv')
-matches_df = pd.read_excel('./matches wins.xlsx')
+matches_df = pd.read_excel('./matches wins.csv')
 
 # Preprocessing data. Removing unwanted columns which might cause the model to throw an error (example, string values)
 start_col = players_df.columns.get_loc('Gls')
